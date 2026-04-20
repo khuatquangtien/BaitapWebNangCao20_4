@@ -2,8 +2,8 @@
 
 ## Thông tin sinh viên
 
- Họ tên: Nguyễn Huy Hoàng
- Mã sinh viên: 23810310410
+ Họ tên: Khuất Quang Tiến
+ Mã sinh viên: 23810310413
  Lớp: D18CNPM2
  1. Giới thiệu
 
